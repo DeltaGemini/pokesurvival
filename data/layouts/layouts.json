@@ -4410,6 +4410,26 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_LANDING_BAY",
+      "name": "LandingBay_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_NavelRock",
+      "border_filepath": "data/layouts/LandingBay/border.bin",
+      "blockdata_filepath": "data/layouts/LandingBay/map.bin"
+    },
+    {
+      "id": "LAYOUT_LANDING_FIELDS",
+      "name": "LandingFields_Layout",
+      "width": 40,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_NavelRock",
+      "border_filepath": "data/layouts/LandingFields/border.bin",
+      "blockdata_filepath": "data/layouts/LandingFields/map.bin"
     }
   ]
 }
